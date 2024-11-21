@@ -28,7 +28,7 @@ int main() {
        float pib2 = PIB2 / populacao2; // PIB per capita.
        char cartaVencedora;
        char resultado;
-     
+      
 
     // Cadastro das Cartas:
     // Implemente a lógica para solicitar ao usuário que insira os dados das cidades
